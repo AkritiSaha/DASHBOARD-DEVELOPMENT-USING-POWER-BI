@@ -28,4 +28,4 @@ This breakdown is especially useful for tailoring marketing strategies and optim
 In conclusion, this Power BI dashboard distills key metrics into an intuitive and interactive format—offering a solid overview of retail operations by merging category, regional, and customer insights into one cohesive narrative.
 
 
-**OUTPUT** :     
+**OUTPUT** :     ![Image](https://github.com/user-attachments/assets/d940f1b3-378f-41b4-a2dd-8d8f47c1e8d5)
