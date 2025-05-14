@@ -28,4 +28,4 @@ This breakdown is especially useful for tailoring marketing strategies and optim
 In conclusion, this Power BI dashboard distills key metrics into an intuitive and interactive format—offering a solid overview of retail operations by merging category, regional, and customer insights into one cohesive narrative.
 
 
-**OUTPUT** :      [Superstore Analysis.pdf](https://github.com/user-attachments/files/20214452/Superstore.Analysis.pdf)
+**OUTPUT** :     
